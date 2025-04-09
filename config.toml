@@ -18,5 +18,5 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 [Spotify]
 build-mode="both"
 incliuded-patches = "'Unlock Spotify Premium' 'Spoof signature'"
-version = "latest"
+version = "auto"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
